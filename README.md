@@ -5,9 +5,9 @@
 
 | **Blockchain Name**      | **Type**      | **Consensus Mechanism**            | **Permission Model** | **Speed / Throughput (TPS)** | **Smart Contract Support**       | **Token Support** | **Typical Use Case**                     | **Notable Technical Feature**        |
 |--------------------------|---------------|------------------------------------|-----------------------|-------------------------------|-----------------------------------|-------------------|------------------------------------------|--------------------------------------|
-| **Ethereum**             | Public        | Proof of Stake (PoS)               | Open                  | ~15–30 TPS (Layer 1)          | ✅ Yes – Solidity                 | ✅ Native (ETH)   | Decentralized apps (DApps), DeFi, NFTs   | EVM, Large developer ecosystem       |
-| **Hyperledger Fabric**   | Private       | Pluggable (e.g., Raft, PBFT)       | Permissioned          | ~1000+ TPS (config-dependent) | ✅ Yes – Go, JavaScript           | ❌ No native token | Supply chain, enterprise workflows       | Channel-based privacy, modular design|
-| **R3 Corda**             | Consortium    | Notary-based consensus             | Permissioned          | ~200–600 TPS                  | ✅ Yes – Kotlin, Java             | ❌ No native token | Inter-bank settlements, regulated finance| Point-to-point architecture          |
+| **Ethereum**             | Public        | Proof of Stake (PoS)               | Open                  | ~15–30 TPS (Layer 1)          |  Yes – Solidity                 |  Native (ETH)   | Decentralized apps (DApps), DeFi, NFTs   | EVM, Large developer ecosystem       |
+| **Hyperledger Fabric**   | Private       | Pluggable (e.g., Raft, PBFT)       | Permissioned          | ~1000+ TPS (config-dependent) |  Yes – Go, JavaScript           |  No native token | Supply chain, enterprise workflows       | Channel-based privacy, modular design|
+| **R3 Corda**             | Consortium    | Notary-based consensus             | Permissioned          | ~200–600 TPS                  |  Yes – Kotlin, Java             |  No native token | Inter-bank settlements, regulated finance| Point-to-point architecture          |
 
 ---
 
